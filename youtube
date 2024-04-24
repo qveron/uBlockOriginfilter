@@ -1,0 +1,6 @@
+! 2024_04_24 https://www.youtube.com/
+! style
+! chat font  size  color  bold 
+www.youtube.com###message:style(font-size: 17px !important; color:black !important; font-weight: bold !important;)
+! chat height
+www.youtube.com##yt-live-chat-app:style(height: auto !important;)
