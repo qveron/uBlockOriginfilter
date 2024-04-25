@@ -1,4 +1,10 @@
 ! 2024_04_24 https://www.youtube.com/
+! chat photo
+www.youtube.com###author-photo
+! chat name
+www.youtube.com###author-name
+! chat input
+www.youtube.com###input-panel
 ! style
 ! chat font  size  color  bold 
 www.youtube.com###message:style(font-size: 17px !important; color:black !important; font-weight: bold !important;)
